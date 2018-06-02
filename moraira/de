@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Casa Almendras - Moraira</title>
+<link rel="stylesheet" href="/style.css" type="text/css">
+</head>
+<body bgcolor="white" text="black">
+<div class="header">
+<div class="lang">
+<img alt="" src="/images/de-flag.png" width=32 height=20> <strong>Auf Deutsch</strong><br>
+<a class="clean" href="./en"><img alt="" src="/images/en-flag.png" width=32 height=20> In English</a>
+</div>
+<h1><img alt="Casa Almendras" src="/images/casa-title.jpg" width="356" height="51" ></h1>
+<h2>Moraira</h2>
+</div>
+<p>Das Ferienhaus ist im exklusiven Club Moraira gelegen. Der n&auml;chste Strand und Einkaufsm&ouml;glichkeiten sind in ungef&auml;hr 2 km Entfernung einfach mit dem Auto erreichbar.</p>
+<p>In der n&auml;heren Umgebung kann man Golf, Tennis und Bowls spielen, Go-Kart fahren, Segeln, Wassersport betreiben: es gibt auch herrliche Wanderwege an der K&uuml;ste und im Inland.  Viele kleine Buchten entlang der gesamten K&uuml;ste laden zum Schnorcheln ein.</p>
+<p>Die Costa Blanca erstreckt sich &uuml;ber 270 km von Denia bis Mojacar und ist das gesamte Jahr &uuml;ber ideal zum Urlaub machen. Das Klima in dieser Region ist warm, sogar im Winter f&auml;llt die Temperatur selten unter 16 Grad. Es gibt in der gebirgigen Landschaft vom Auto aus viel zu sehen: Man f&auml;hrt meilenweit durch sch&ouml;ne Obstplantagen mit Zitronen-, Orangen-, Oliven- und Mandelb&auml;umen. Es gibt viele interessante Orte wie zum Beispiel, Denia, Javea, Calpe, Altea, Elche und das Bergdorf Guadalest. Benidorm, mit seinen eigenen besonderen Attraktionen und der neue Freizeitpark in Terra Mitica ist eine halbe Autostunde entfernt.</p>
+<p>Moraira ist ein urspr&uuml;ngliches Fischerdorf, eine Autostunde entfernt vom Flughafen in Alicante und 75 Minuten von Valencia. Valencia bietet viele Museen, interessante neue Architektur, viele verschiedene Gesch&auml;fte und ein spannendes Nachtleben. Moraira selbst ist von gr&uuml;nen H&uuml;geln umgeben und bietet einen wunderbaren Blick auf die felsige K&uuml;ste ud die Buchten des Mittelmeeres. Das alte Fischerdorf, wurde &uuml;ber die Jahre geschmackvoll erweitert und hat jetzt viele Cafes und Restaurants. Im Hafen mischen sich Luxusjachten mit traditionellen Fischerbooten. Der Wochenmarkt am Freitag ist immer ein gro&szlig;er Spass.</p>
+<p class="cent">
+   <a href="http://casaalmendras.com/de">die Homepage</a> - <a href="http://casaalmendras.com/de"></a></p>
+<div class="footer">
+<hr>
+<a href="mailto:enquiries@casaalmendras.com">enquiries@casaalmendras.com</a></div>
+</body>
+</html>

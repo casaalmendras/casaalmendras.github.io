@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Casa Almendras - A partial view of the sitting room</title>
+<link rel="stylesheet" href="/style.css" type="text/css">
+</head>
+<body bgcolor="white" text="black">
+<div class="header">
+<div class="lang">
+<img alt="" src="/images/en-flag.png" width=32 height=20> <strong>In English</strong><br>
+<a class="clean" href="./de"><img alt="" src="/images/de-flag.png" width=32 height=20> Auf Deutsch</a>
+</div>
+<h1><img alt="Casa Almendras" src="/images/casa-title.jpg" width="356" height="51" ></h1>
+<h2>A partial view of the sitting room</h2>
+</div>
+<p>
+Up to : <a href="/en">Homepage</a> / <a href="../../en">Casa Almendras</a> /  <a href="../en">Pics</a>
+</p>
+<div class="bar-1">
+<img class="full" src="/pics/27.jpg" width="2272" height="1704" alt="A part of the sitting room">
+<p>
+This large upper room has a dining area and leads through to the kitchen on the left. The floor is marble throughout which ensures that these rooms stay reasonably cool in the summer.
+</p></div>
+<div class="footer">
+<hr>
+<a href="mailto:enquiries@casaalmendras.com">enquiries@casaalmendras.com</a></div>
+</body>
+</html>

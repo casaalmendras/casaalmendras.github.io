@@ -1,0 +1,135 @@
+DIV.header DIV.lang {
+float: right;
+}
+
+A.plain {
+text-decoration: none;
+}
+
+DIV.lang IMG {
+border: 0px;
+}
+
+H1, H2 {
+text-align: center;
+}
+
+H1 {
+margin-left: 4em;
+}
+
+.hide {
+display: none;
+}
+
+.smaller {
+font-size: 94%;
+}
+
+BODY {
+ margin-left: 1em;
+ margin-right: 1em;
+ text-align: justify;
+/* font-family: "Futura Bk BT", Futura, Tahoma, "Humanst521 BT", "Helmet", "Gill Sans", "Arial", "Geneva", sans-serif;
+*/
+font-family: sans-serif;
+ background-color: #ccffff;
+}
+
+.cent {
+text-align: center;
+}
+
+.left {
+text-align: left;
+}
+
+.right {
+text-align: right;
+}
+
+DL DT {
+  font-weight: bolder;
+}
+
+BODY {
+  margin-left: 2em;
+  margin-right: 2em;
+}
+
+DL DD {
+  margin-left: 2em;
+}
+
+UL.compact {
+font-size: small;
+}
+
+UL.compact LI {
+margin-left: 0em;
+}
+
+DIV.header {
+width: 100%;
+font-size: large;
+}
+
+
+DIV.mainlogo IMG {
+margin-left: 1em;
+margin-top:0.5em;
+margin-bottom:0.5em;
+}
+
+DIV.footer HR {
+display: none;
+}
+
+DIV.footer {
+padding: 0.2em;
+clear: both;
+text-align: right;
+border: solid 0px #99cccc;
+border-top-width: medium;
+}
+
+P.front {
+margin-right: 5em;
+margin-left: 5em;
+font-size: large;
+}
+
+P.front IMG {
+float: right;
+margin-left: 2em;
+margin-bottom: 2em;
+}
+
+TABLE.pricing {
+border: solid #99cccc medium;
+margin-left: auto;
+margin-right: auto;
+}
+
+TABLE.pricing TD, TABLE.pricing TH {
+border: solid #99cccc thin;
+background-color: #ffff99;
+margin-left: 1em;
+margin-right: 1em;
+padding-left: 1em;
+padding-right: 1em;
+}
+
+TABLE.pricing TD {
+text-align: center;
+}
+
+TABLE.randomthumbs {
+border: solid medium #99cccc;
+background-color: #ffff99;
+margin-left: 2em;
+margin-bottom: 2em;
+padding-left: 1em;
+padding-right: 1em;
+padding-top: 1em;
+}

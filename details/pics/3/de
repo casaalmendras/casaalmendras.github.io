@@ -1,0 +1,28 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Casa Almendras - Ein Blick durch das Wohnzimmer</title>
+<link rel="stylesheet" href="/style.css" type="text/css">
+</head>
+<body bgcolor="white" text="black">
+<div class="header">
+<div class="lang">
+<img alt="" src="/images/de-flag.png" width=32 height=20> <strong>Auf Deutsch</strong><br>
+<a class="clean" href="./en"><img alt="" src="/images/en-flag.png" width=32 height=20> In English</a>
+</div>
+<h1><img alt="Casa Almendras" src="/images/casa-title.jpg" width="356" height="51" ></h1>
+<h2>Ein Blick durch das Wohnzimmer</h2>
+</div>
+<p>
+Nach oben : <a href="/de">Homepage</a> / <a href="../../de">Casa Almendras</a> /  <a href="../de">Fotos</a>
+</p>
+<div class="bar-1">
+<img class="full" src="/pics/27.jpg" width="2272" height="1704" alt="Ein Blick durch das Wohnzimmer">
+<p>
+Sie kommen von links von der kleinen Terrasse mit Meerblick ins Wohnzimmer. Hinten rechts ist die Essecke, geradeaus die Kueche.Der Marmorboden is kuehl im Sommer. 
+</p></div>
+<div class="footer">
+<hr>
+<a href="mailto:enquiries@casaalmendras.com">enquiries@casaalmendras.com</a></div>
+</body>
+</html>
